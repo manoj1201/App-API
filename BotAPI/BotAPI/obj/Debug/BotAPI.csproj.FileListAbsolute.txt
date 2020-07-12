@@ -1,0 +1,895 @@
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\BotAPI.dll.config
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\BotAPI.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\BotAPI.pdb
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\csc.exe
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\csc.exe.config
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\csc.rsp
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\csi.exe
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\csi.exe.config
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\csi.rsp
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.AppContext.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Console.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\vbc.exe
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\vbc.exe.config
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\vbc.rsp
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\AngleSharp.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Antlr3.Runtime.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Data.Edm.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Data.OData.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Data.Services.Client.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Graph.Core.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Graph.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\microsoft.identitymodel.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Office.Client.Policy.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.ProjectServer.Client.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Search.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Newtonsoft.Json.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\OfficeDevPnP.Core.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\SharePointPnP.IdentityModel.Extensions.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Spatial.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Helpers.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Http.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Mvc.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Optimization.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Razor.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.WebPages.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\WebGrease.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\AngleSharp.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Data.Edm.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Data.OData.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Data.Services.Client.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Graph.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.Graph.Core.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\OfficeDevPnP.Core.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Spatial.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Newtonsoft.Json.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Helpers.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Http.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Mvc.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Optimization.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.Razor.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.WebPages.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Antlr3.Runtime.pdb
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\de\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\es\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\fr\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\it\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ja\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ko\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\ru\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\obj\Debug\BotAPI.csprojAssemblyReference.cache
+C:\Users\M1044463\Documents\BotAPI\BotAPI\obj\Debug\BotAPI.csproj.CopyComplete
+C:\Users\M1044463\Documents\BotAPI\BotAPI\obj\Debug\BotAPI.dll
+C:\Users\M1044463\Documents\BotAPI\BotAPI\obj\Debug\BotAPI.pdb
+C:\Users\M1044463\Documents\New folder\BotAPI\obj\Debug\BotAPI.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\obj\Debug\BotAPI.pdb
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\BotAPI.dll.config
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\BotAPI.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\BotAPI.pdb
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\csc.exe
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\csc.exe.config
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\csc.rsp
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\csi.exe
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\csi.exe.config
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\csi.rsp
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.AppContext.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Console.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\vbc.exe
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\vbc.exe.config
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\vbc.rsp
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\AngleSharp.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Antlr3.Runtime.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Data.Edm.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Data.OData.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Data.Services.Client.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Graph.Core.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Graph.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\microsoft.identitymodel.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Office.Client.Policy.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.ProjectServer.Client.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.SharePoint.Client.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.SharePoint.Client.Search.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Newtonsoft.Json.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\OfficeDevPnP.Core.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\SharePointPnP.IdentityModel.Extensions.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Spatial.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Helpers.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Http.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Mvc.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Optimization.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Razor.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.WebPages.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\WebGrease.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\AngleSharp.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Data.Edm.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Data.OData.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Data.Services.Client.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Graph.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.Graph.Core.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\OfficeDevPnP.Core.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Spatial.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Newtonsoft.Json.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Helpers.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Http.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Mvc.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Optimization.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.Razor.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.WebPages.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Antlr3.Runtime.pdb
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\de\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\es\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\fr\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\it\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ja\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ko\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\ru\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\M1044463\Documents\New folder\BotAPI\obj\Debug\BotAPI.csprojAssemblyReference.cache
+C:\Users\M1044463\Documents\New folder\BotAPI\obj\Debug\BotAPI.csproj.CopyComplete
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\BotAPI.dll.config
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\BotAPI.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\BotAPI.pdb
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\csc.exe
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\csc.exe.config
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\csc.rsp
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\csi.exe
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\csi.exe.config
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\csi.rsp
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.AppContext.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Console.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\vbc.exe
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\vbc.exe.config
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\vbc.rsp
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\AngleSharp.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Antlr3.Runtime.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Data.Edm.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Data.OData.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Data.Services.Client.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Graph.Core.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Graph.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\microsoft.identitymodel.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Office.Client.Policy.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.ProjectServer.Client.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Search.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Newtonsoft.Json.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\OfficeDevPnP.Core.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\SharePointPnP.IdentityModel.Extensions.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Spatial.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Helpers.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Http.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Mvc.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Optimization.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Razor.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.WebPages.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\WebGrease.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\AngleSharp.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Data.Edm.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Data.OData.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Data.Services.Client.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Graph.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.Graph.Core.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\OfficeDevPnP.Core.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Spatial.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Newtonsoft.Json.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Helpers.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Http.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Mvc.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Optimization.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.Razor.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.WebPages.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Antlr3.Runtime.pdb
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\de\System.Spatial.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\es\System.Spatial.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\fr\System.Spatial.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\it\System.Spatial.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ja\System.Spatial.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ko\System.Spatial.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\ru\System.Spatial.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\obj\Debug\BotAPI.csprojAssemblyReference.cache
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\obj\Debug\BotAPI.csproj.CopyComplete
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\obj\Debug\BotAPI.dll
+C:\Users\M1044463\Desktop\BotAPI\BotAPI\obj\Debug\BotAPI.pdb
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\obj\Debug\BotAPI.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\obj\Debug\BotAPI.pdb
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\BotAPI.dll.config
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\BotAPI.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\BotAPI.pdb
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\csc.exe
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\csc.exe.config
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\csc.rsp
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\csi.exe
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\csi.exe.config
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\csi.rsp
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.AppContext.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Console.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.IO.Compression.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Net.Http.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.ValueTuple.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\vbc.exe
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\vbc.exe.config
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\vbc.rsp
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\VBCSCompiler.exe
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\AngleSharp.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Antlr3.Runtime.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.Edm.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.OData.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.Services.Client.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Graph.Core.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Graph.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\microsoft.identitymodel.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Office.Client.Policy.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Office.Client.TranslationServices.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Office.SharePoint.Tools.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.ProjectServer.Client.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Publishing.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Search.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Newtonsoft.Json.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\OfficeDevPnP.Core.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\SharePointPnP.IdentityModel.Extensions.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Buffers.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Memory.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Net.Http.Formatting.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Numerics.Vectors.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Spatial.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Text.Encoding.CodePages.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Helpers.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Http.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Http.WebHost.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Mvc.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Optimization.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Razor.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.Razor.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\WebGrease.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\AngleSharp.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.Edm.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.OData.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.Services.Client.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Graph.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Graph.Core.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Newtonsoft.Json.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\OfficeDevPnP.Core.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Buffers.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Memory.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Numerics.Vectors.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Spatial.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Net.Http.Formatting.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Helpers.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Http.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Http.WebHost.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Mvc.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Optimization.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.Razor.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.Razor.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Antlr3.Runtime.pdb
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\de\System.Spatial.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\es\System.Spatial.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\fr\System.Spatial.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\it\System.Spatial.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ja\System.Spatial.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ko\System.Spatial.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\ru\System.Spatial.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\obj\Debug\BotAPI.csprojAssemblyReference.cache
+C:\Office\Projects\COE\Osmosis2020\BotAPI\BotAPI\BotAPI\obj\Debug\BotAPI.csproj.CopyComplete
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\BotAPI.dll.config
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\BotAPI.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\BotAPI.pdb
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\csc.exe
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\csc.exe.config
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\csc.rsp
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\csi.exe
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\csi.exe.config
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\csi.rsp
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.AppContext.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Console.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.IO.Compression.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Net.Http.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Net.Sockets.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.ValueTuple.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Xml.XPath.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\vbc.exe
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\vbc.exe.config
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\vbc.rsp
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\VBCSCompiler.exe
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\AngleSharp.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Antlr3.Runtime.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.Edm.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.OData.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.Services.Client.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Graph.Core.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Graph.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\microsoft.identitymodel.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Logging.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Tokens.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Office.Client.Policy.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Office.Client.TranslationServices.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Office.SharePoint.Tools.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.ProjectServer.Client.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Rest.ClientRuntime.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Publishing.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Search.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Newtonsoft.Json.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\OfficeDevPnP.Core.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\SharePointPnP.IdentityModel.Extensions.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Buffers.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Memory.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Net.Http.Formatting.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Numerics.Vectors.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Spatial.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Text.Encoding.CodePages.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Helpers.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Http.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Http.WebHost.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Mvc.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Optimization.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Razor.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.Deployment.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.Razor.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\WebGrease.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\AngleSharp.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.Edm.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.OData.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Data.Services.Client.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Graph.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Graph.Core.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.pdb
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Logging.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.IdentityModel.Tokens.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Rest.ClientRuntime.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.WindowsAzure.Storage.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Newtonsoft.Json.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\OfficeDevPnP.Core.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Buffers.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Memory.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Numerics.Vectors.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Spatial.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Net.Http.Formatting.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Helpers.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Http.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Http.WebHost.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Mvc.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Optimization.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.Razor.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.Deployment.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\System.Web.WebPages.Razor.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Antlr3.Runtime.pdb
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\de\Microsoft.Data.OData.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\es\Microsoft.Data.OData.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\it\Microsoft.Data.OData.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\de\System.Spatial.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\es\System.Spatial.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\fr\System.Spatial.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\it\System.Spatial.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ja\System.Spatial.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ko\System.Spatial.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\ru\System.Spatial.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\zh-Hans\System.Spatial.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\bin\zh-Hant\System.Spatial.resources.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\obj\Debug\BotAPI.csprojAssemblyReference.cache
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\obj\Debug\BotAPI.csproj.CopyComplete
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\obj\Debug\BotAPI.dll
+C:\CommunityWork\AI Tour\BotAPI\BotAPI\BotAPI\obj\Debug\BotAPI.pdb
