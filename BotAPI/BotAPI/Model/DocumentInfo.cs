@@ -13,9 +13,9 @@ namespace BotAPI.Model
     {
         internal List<DocumentData> GetDocumentData(string query)
         {
-            string siteUrl = "https://mittal1201.sharepoint.com/";
-            string userName = "manoj@mittal1201.onmicrosoft.com";
-            string password = "magnet!1";
+            string siteUrl = "";
+            string userName = "";
+            string password = "";
 
             OfficeDevPnP.Core.AuthenticationManager authManager = new OfficeDevPnP.Core.AuthenticationManager();
             try

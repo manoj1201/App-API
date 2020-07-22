@@ -330,14 +330,17 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PatientController.cs" />
     <Compile Include="Controllers\SearchController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Entities\DocumentData.cs" />
+    <Compile Include="Entities\PatientDto.cs" />
     <Compile Include="Entities\Profile.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Model\DocumentInfo.cs" />
+    <Compile Include="Model\PatientData.cs" />
     <Compile Include="Model\ProfileInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -393,6 +396,9 @@
     <Content Include="Content\bootstrap-reboot.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
+    <None Include="Properties\PublishProfiles\cusotmapi01 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\cusotmapi01 - ReadOnly - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\cusotmapi01 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\documentsearchapi - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\DocumentSearchAPI - FTP1.pubxml" />
     <None Include="Properties\PublishProfiles\documentsearchapi - ReadOnly - FTP.pubxml" />
